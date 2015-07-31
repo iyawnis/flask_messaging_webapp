@@ -1,0 +1,4 @@
+Flask==0.10.1
+Flask-Script==0.6.6
+gcm-client==0.1.4
+pymongo==2.8
